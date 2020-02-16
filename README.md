@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Learn colors with your child
 
-You can use the [editor on GitHub](https://github.com/egze/gitgame_demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a simple excercise you can play together with your child. Below is a list of colors and for each color there is a photo of an animal. The color of the animal mathes the color from the list.
+Go through the list from to to bottom, ask your child what animal does he/she sees and talk about the color of the animal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Red
+![Red parrot](red_parrot.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Yellow
+![Green frog](green_frog.jpg)
 
-```markdown
-Syntax highlighted code block
+### Brown
+![Brown horse](brown_horse.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/egze/gitgame_demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### White
+![White bear](white_bear.jpg)
