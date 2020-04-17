@@ -13,7 +13,7 @@ Go through the list from top to bottom, ask your child what animal does he/she s
 ### Red
 ![Red parrot](red_parrot.jpg)
 
-### Yellow
+### Green
 ![Green frog](green_frog.jpg)
 
 ### Brown
